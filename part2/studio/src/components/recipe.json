@@ -1,17 +1,17 @@
 [
    {
-     "name": "Stovetop Mac and Cheese",
-     "author": "Stephanie Melchione",
-     "description": "This Creamy Stovetop Mac and Cheese is the BEST 30-minute meal for a busy week. Your family will love it every time!",
-     "website": "https://thecozycook.com/stovetop-mac-and-cheese/",
-     "recipeImage": "https://thecozycook.com/wp-content/uploads/2021/10/Stovetop-Mac-and-Cheese-2.jpg",
-     "authorImage": "https://thecozycook.com/wp-content/uploads/2021/11/The-Cozy-Cook.jpg",
+     "name": "Spelt Apple Cake",
+     "author": "Sandy",
+     "description": "Spelt Cinnamon Apple Cake with warm flavors (cinnamon, spelt, almond, and brown sugar), topped with whipped cream. The ultimate Christmas brunch dessert!",
+     "website": "https://reluctantentertainer.com/spelt-cinnamon-apple-cake/",
+     "recipeImage": "https://reluctantentertainer.com/wp-content/uploads/2019/12/Spelt-Cinnamon-Apple-Cake-5-700x1049.jpg",
+     "authorImage": "https://reluctantentertainer.com/wp-content/uploads/2022/11/burrata-salad-Square-500x500.jpeg",
      "ingredients": [
-       "uncooked macaroni",
+       "spelt flour",
        "butter",
-       "flour",
-       "heavy cream",
-       "milk"
+       "sugar",
+       "eggs",
+       "apple sauce"
      ]
    }
  ]
